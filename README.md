@@ -2,6 +2,6 @@
 A simple where a dinosaur has to dodge obstacles to gain score
 
 
-[prev1.png]
+![](prev1.png)
 <br/>
-[prev2.png]
+![](prev2.png)
