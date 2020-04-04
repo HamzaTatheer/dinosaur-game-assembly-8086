@@ -699,7 +699,7 @@ jne comp2
 pop es
            ;ya han par laoun
  mov  ah, 0x13           ; service 13 - print string               
-mov  al, 1              ; subservice 01 – update cursor               
+mov  al, 1              ; subservice 01 Â– update cursor               
 mov  bh, 0              ; output on page 0               
 mov  bl, 6              ; normal attrib               
 mov  dx, 0x022F         ; row 10 column 3               
